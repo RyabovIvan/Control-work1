@@ -1,0 +1,15 @@
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\bin\Debug\net6.0\Задача 1.exe
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\bin\Debug\net6.0\Задача 1.deps.json
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\bin\Debug\net6.0\Задача 1.runtimeconfig.json
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\bin\Debug\net6.0\Задача 1.dll
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\bin\Debug\net6.0\Задача 1.pdb
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\obj\Debug\net6.0\Задача 1.csproj.AssemblyReference.cache
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\obj\Debug\net6.0\Задача 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\obj\Debug\net6.0\Задача 1.AssemblyInfoInputs.cache
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\obj\Debug\net6.0\Задача 1.AssemblyInfo.cs
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\obj\Debug\net6.0\Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\obj\Debug\net6.0\Задача 1.dll
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\obj\Debug\net6.0\refint\Задача 1.dll
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\obj\Debug\net6.0\Задача 1.pdb
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\obj\Debug\net6.0\Задача 1.genruntimeconfig.cache
+C:\Users\Иван Р\Desktop\Контрольная работа\Задача\Задача 1\obj\Debug\net6.0\ref\Задача 1.dll
